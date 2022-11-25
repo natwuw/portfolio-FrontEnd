@@ -1,0 +1,24 @@
+.mat-card{
+    border-radius: 32px;
+    margin: 10px 10px;
+    padding: 10px;
+    border-color: pink;
+
+}
+.mat-card#first-card{
+    padding: 0;
+}
+#profile-background img{
+    width: 100%;
+    border-radius: 32px 32px 0 0;
+    
+}
+#profile-image img{
+    width: 50px;
+    height: 50px;
+
+}
+.info-image#info-details img{
+    width: 5px;
+    height: 5px;
+}
